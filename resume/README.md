@@ -3,7 +3,7 @@
 ![De Maan](http://i.imgur.com/JfAASVH.jpg "Jens De Wulf")  
 Tuinwijk 51  
 Machelen - Zulte 9870  
-Tel: [+32478294135  ](tel:0032478294135 "Call me")  
+Tel: [+32478294135](tel:+32478294135 "Call me")  
 @: [jdw.jensdewulf@gmail.com](mailto:jdw.jensdewulf@gmail.com "Get in touch")
 
 
