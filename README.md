@@ -1,2 +1,2 @@
-Class notes Repo
+Class notes Repo network test
 -----------------
